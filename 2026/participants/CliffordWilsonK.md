@@ -34,10 +34,18 @@ Hey everyone, I'm Clifford, a computer engineering student from Ghana. I spend m
 
 ## Research Section
 
-- I found out a lot of stuff through their developer documentation, it made understand what wagtail reallystood for https://docs.wagtail.org/en/stable/getting_started/index.html
-- Link to my blog post on what i learned recently - https://dev.to/techcosmocrat/finding-a-faster-way-to-build-websites-10p8
+- I spent time diving deep into the [Wagtail Developer Documentation](https://docs.wagtail.org/en/stable/getting_started/index.html), which really helped me understand the core philosophy behind the CMS and how it extends Django.
+- **Blog Post:** [Finding a faster way to build websites](https://dev.to/techcosmocrat/finding-a-faster-way-to-build-websites-10p8) - A short breakdown of what I learned while exploring Wagtail's ecosystem.
 
 ## Django and Wagtail Fundamentals
 
-- Django Project Link [https://github.com/CliffordWilsonK/DjangoPollsApp]
-- Wagtail Project Link [https://github.com/CliffordWilsonK/wagtail-first-project]
+- **Django Tutorial:** [Django Polls App Repository](https://github.com/CliffordWilsonK/DjangoPollsApp)
+- **Wagtail Tutorial:** [My First Wagtail Site](https://github.com/CliffordWilsonK/wagtail-first-project)
+
+
+## Project-Specific Tasks & PRs
+
+- [x] **Demo website redesign task:** *Create a new alternative visual look for the website, with its existing content.*
+  - **Completed via PR:** [[GSoC 2026 PoC] Modernize Homepage UI & CSS Architecture](https://github.com/wagtail/bakerydemo/pull/702) *(wagtail/bakerydemo)*
+
+- [x] **Participant File:** [Add CliffordWilsonK.md](https://github.com/wagtail/gsoc/pull/199) *(wagtail/gsoc)*

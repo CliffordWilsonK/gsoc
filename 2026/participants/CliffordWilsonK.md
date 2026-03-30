@@ -46,6 +46,6 @@ Hey everyone, I'm Clifford, a computer engineering student from Ghana. I spend m
 ## Project-Specific Tasks & PRs
 
 - [x] **Demo website redesign task:** *Create a new alternative visual look for the website, with its existing content.*
-  - **Completed via PR:** [[GSoC 2026 PoC] Modernize Homepage UI & CSS Architecture](https://github.com/wagtail/bakerydemo/pull/702) *(wagtail/bakerydemo)*
+  - **Completed via Fork Branch:** [[GSoC 2026 PoC] Modernize Homepage UI & CSS Architecture](https://github.com/CliffordWilsonK/bakerydemo/tree/feature/homepage-redesign-poc) *(Personal Fork)*
 
 - [x] **Participant File:** [Add CliffordWilsonK.md](https://github.com/wagtail/gsoc/pull/199) *(wagtail/gsoc)*
